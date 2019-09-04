@@ -12,6 +12,8 @@ Intro text
 
 sample text
 
-  As Java is my primary programming language, learning Javascript is like a breath of fresh air.
+As Java is my primary programming language, learning Javascript is like a breath of fresh air.
+  
+Design has always been a strong passion of mine. I come from a background that revolves around the arts as I enjoy my hobbies of drawing, painting, as well as playing the violin.
 
-  I have never heard of "athletic software engineering" before I started ICS 314.
+I have never heard of "athletic software engineering" before I started ICS 314.
