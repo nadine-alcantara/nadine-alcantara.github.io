@@ -12,3 +12,6 @@ Intro text
 
 sample text
 
+  As Java is my primary programming language, learning Javascript is like a breath of fresh air.
+
+  I have never heard of "athletic software engineering" before I started ICS 314.
