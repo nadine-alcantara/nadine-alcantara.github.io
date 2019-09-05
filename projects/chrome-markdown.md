@@ -12,6 +12,7 @@ labels:
 summary: Utilizing Markdown to customize my New Tabs on Chrome Browser.
 ---
 
-<img class="ui medium right floated rounded image" src="/images/micromouse-robot.png">
+<img class="ui image" src="/images/tab-start.png">
+<img class="ui image" src="/images/tab-tasks.png">
 
 The Markdown extension can be found at the [chrome web store](https://chrome.google.com/webstore/detail/markdown-new-tab/demppioeofcekpjcnlkmdjbabifjnokj?hl=en-GB).
