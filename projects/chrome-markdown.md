@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/chrome-markdown.png
-title: Markdown New Tab
+title: Customized New Tab
 permalink: projects/chrome-markdown
 date: 2019-01-08
 labels:
@@ -18,7 +18,7 @@ summary: Utilizing Markdown to customize my New Tabs on Chrome Browser.
 
 
 Here's how I formatted the start of my new tabs
-```Markdown
+```HTML
 <center>
 <a href="#tasks"><img src="https://66.media.tumblr.com/ae69c79ff6eab2f43fd6e228aa69de3a/tumblr_nj3u85wrej1s43atqo1_1280.jpg" width="20%"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
