@@ -16,3 +16,5 @@ Design has always been a strong passion of mine. I come from a background that r
 
 ## "WOD" is it like?
 I have never heard of "athletic software engineering" before I started ICS 314. When I found out that athletic software engineering exercise implementations for the class would be WODS, I was anxious because of the pressure for coding under a time limit. I prefer to take my time while problem solving; rushing myself usually results in overlooked errors woven in really clumsy work.
+
+## Takeaways
