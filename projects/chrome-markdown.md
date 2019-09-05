@@ -18,7 +18,7 @@ summary: Utilizing Markdown to customize my New Tabs on Chrome Browser.
 
 I used a chrome extention called "Markdown New Tab" to customize and design my chrome tabs to my liking. Starting up the extension for the first time just provides the user with a black editor with simple "Hello, World!" sample text.
 
-Here's how I formatted the start of my new tabs
+### Here's how I formatted the start of my new tabs
 ```HTML
 <center>
 <a href="#tasks"><img src="https://66.media.tumblr.com/ae69c79ff6eab2f43fd6e228aa69de3a/tumblr_nj3u85wrej1s43atqo1_1280.jpg" width="20%"></a>
@@ -29,7 +29,7 @@ Here's how I formatted the start of my new tabs
 </center>
 ```
 
-Here is how I formatted my notes and tasks
+### Here is how I formatted my notes and tasks
 ```Markdown
 <a name="tasks"><center><h2>tasks</h2></center></a>
 [laulima](https://laulima.hawaii.edu/portal/site/~nalcan24/tool/e5dfa6a1-4c9e-48c7-a9af-0f5c362b1ba4?panel=Main) | [personal drive](https://drive.google.com/drive/u/0/my-drive) | [personal docs](https://docs.google.com/document/u/0/) | [personal slides](https://docs.google.com/presentation/u/0/) | [fof website](https://fofatuhm.wixsite.com/home)
