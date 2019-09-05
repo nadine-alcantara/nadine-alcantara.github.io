@@ -12,10 +12,10 @@ labels:
 summary: Utilizing Markdown to customize my New Tabs on Chrome Browser.
 ---
 
-<img class="ui image" src="/images/tab-start.png">
-<img class="ui image" src="/images/tab-tasks.png">
+<img class="ui image" src="">
+<img class="ui image" src="">
 
-```js
+```Markdown
 <br><br><br><br><br><br><br>
 
 <center>
