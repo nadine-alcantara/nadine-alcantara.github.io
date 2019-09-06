@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/musescore.png
-title: Arranging a Duet
+title: Arranging Music
 permalink: projects/arranging
 date: 2019-02-21
 labels:
