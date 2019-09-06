@@ -28,6 +28,7 @@ I used a chrome extention called "Markdown New Tab" to customize and design my c
 <a href="#exams"><img src="https://66.media.tumblr.com/1222e6732edd7d0aa38f82a8e56be300/tumblr_nj3u85wrej1s43atqo2_1280.jpg" width="20%"></a>
 </center>
 ```
+The images act as my new tab wallpaper, as well as functioning buttons. When clicked, they direct to their corresponding locations in the page since it's more convenient than scrolling.
 
 ### Here is how I formatted my notes and tasks
 ```Markdown
@@ -35,10 +36,6 @@ I used a chrome extention called "Markdown New Tab" to customize and design my c
 [laulima](https://laulima.hawaii.edu/portal/site/~nalcan24/tool/e5dfa6a1-4c9e-48c7-a9af-0f5c362b1ba4?panel=Main) | [personal drive](https://drive.google.com/drive/u/0/my-drive) | [personal docs](https://docs.google.com/document/u/0/) | [personal slides](https://docs.google.com/presentation/u/0/) | [fof website](https://fofatuhm.wixsite.com/home)
 |---|---|---|---|---|
 |✧( ु•⌄• )◞|[school drive](https://drive.google.com/drive/u/1/my-drive)|[school docs](https://docs.google.com/document/u/1/)|[school slides](https://docs.google.com/presentation/u/1/)|◟( •⌄• ू )✧|
-
-<!--
-- <font color="pink">example day</font> to do
--->
 
 #### CHEM 162 | MWF 11:30p - 12:20p @ BIL 150 | M 1:00p - 2:20p @ BIL 341C
 - <font color="pink">mon (9/9)</font> Ch 11
@@ -56,6 +53,8 @@ I used a chrome extention called "Markdown New Tab" to customize and design my c
 - [JSFiddle](https://jsfiddle.net/)
 - [Website](http://courses.ics.hawaii.edu/ics314f19/)
 - [Schedule](http://courses.ics.hawaii.edu/ics314f19/schedule/)
+
+[//]: # etc...
 ```
 
 The Markdown extension can be found at the [chrome web store](https://chrome.google.com/webstore/detail/markdown-new-tab/demppioeofcekpjcnlkmdjbabifjnokj?hl=en-GB).
