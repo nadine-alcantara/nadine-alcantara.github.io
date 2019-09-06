@@ -16,7 +16,7 @@ summary: Utilizing Markdown to customize my New Tabs on Chrome Browser.
 
 <img class="ui image" src="/images/tab-tasks.png">
 
-I used a chrome extention called "Markdown New Tab" to customize and design my chrome tabs to my liking. This project allowed me to organize my bookmarks, add tasks and exam reminders all from a single page. I created my own task navigation system in place of sticky notes where I would also include important links to resources dedicated to each class like their syllbi and homework assignments. Starting up the extension for the first time just provides the user with a black editor with simple "Hello, World!" sample text.
+I used a chrome extention called "Markdown New Tab" to customize and design my chrome tabs to my liking. This project allowed me to organize my bookmarks, add tasks and exam reminders all from a single page. I created my own task navigation system in place of sticky notes where I would also include important links to resources dedicated to each class like their syllbi and homework assignments. Starting up the extension for the first time just provides the user with a black editor with simple "Hello, World!" sample text, so I used online sources to learn Markdown and HTML to utilize them in a creative way.
 
 ### Here's how I formatted the start of my new tabs
 ```HTML
