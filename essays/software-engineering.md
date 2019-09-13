@@ -10,7 +10,7 @@ labels:
   - Learning
 ---
 
-<img class="ui large left floated image" src="../images/brainstorming.png">
+<img class="ui large left floated image" src="../images/brainstorming.jpg">
 
 ## Exposure
 I had my first taste of learning computer coding when I was a senior in high school. At the moment, my pathway for my future studies was still uncertain, but I knew I wanted to commit to a career in the STEM field. Throughout high school, I persisted to excel in the numerous math and science that were available to me where during my senior, a new AP computer science course opened. It was completely new yet intriguing to me; my thoughts began to dance in my head, wondering if I would get to learn the ins-and-outs of a computer’s brain. Designing websites, developing video games, inventing new aspects of AI technology – I associated all of them with computer science, so I mustered up all my courage to enroll for the class, diving unknowingly into a new and exciting experience.
