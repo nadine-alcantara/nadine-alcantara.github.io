@@ -4,7 +4,7 @@ type: essay
 title: Reality Born From a Dream
 # All dates must be YYYY-MM-DD format!
 date: 2019-09-06
-draft: true
+draft: false
 labels:
   - Software Engineering
   - Learning
