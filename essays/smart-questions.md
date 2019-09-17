@@ -6,6 +6,7 @@ title: Asking the Smart Questions
 date: 2019-09-11
 draft: false
 labels:
+  - Smart questions
   - Learning
 ---
 
