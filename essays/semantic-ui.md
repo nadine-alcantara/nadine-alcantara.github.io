@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Semantic UI Reflection
+title: Building with the Semantic UI Framework
 # All dates must be YYYY-MM-DD format!
 date: 2019-10-10
 draft: false
