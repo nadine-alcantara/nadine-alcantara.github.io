@@ -7,6 +7,7 @@ labels:
   - Software Engineering
   - Meteor
 ---
+Authors: Nadine and Ryota
 
 ## Overview (including “The problem” and “The solution”)
 _problem:_ Students get overwhelmed walking around the bookstore, trying to find the correct textbooks they need for their classes for the semester. Students cannot find books at a reasonable price.
