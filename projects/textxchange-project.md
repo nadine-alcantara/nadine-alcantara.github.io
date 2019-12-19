@@ -1,15 +1,16 @@
 ---
 layout: project
 type: project
-image: images/nof.png
-title: 2018 National Orchestra Festival
-permalink: projects/orchestra-festival
-date: 2018-03-07
+image: images/textXchange-logo.png
+title: TextXchange
+permalink: projects/textxchange-project
+date: 2019-12-18
 labels:
-  - High school
-  - Orchestra
-  - Competition
-summary: Our symphony orchestra was invited to compete and perform at the 2018 National Orchestra Festival in Atlanta, Georgia
+  - Software Engineering
+  - Meteor
+  - MongoDB
+  - Group Project
+summary: TextXchange is my ICS 314 final project to help UH students exchange textbooks
 ---
 
 <img class="ui medium right floated image" src="/images/tx-landing.png">
