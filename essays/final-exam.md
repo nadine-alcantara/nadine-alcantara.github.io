@@ -4,7 +4,7 @@ type: essay
 title: Softwaer Engineering
 # All dates must be YYYY-MM-DD format!
 date: 2019-12-18
-draft: true
+draft: false
 labels:
   - Software Engineering
   - Learning
@@ -30,3 +30,5 @@ However, for our final project, we have made a grave mistake in ethical security
 Working on our final group project allowed me to realize that organization is tedious but crucial. Tasked with developing our own web application, we combined the brains of four individuals to come up with a product that would help the UH community. To ensure that our work flowed effortlessly and efficiently, we utilized the aspects of agile project management that was taught in the class. We implemented the use of Milestones that was managed through GitHub, which split up the development into three parts with three separate due dates. This helped to organize the process, focusing on what needs to be done first by building the site’s foundation then adding in functionality, instead of overwhelming ourselves to rush through code all at once. Another feature that assisted us greatly was the use of issues and organizing them with the Automated Kanban system. To allocate the workload equally amongst team members, we split each task of the site separately into their own issue and assigned at least two to each member. We then processed each issue through the Automated Kanban system which is comprised of a “To do,” “In progress” and “Done” section. Issues were neatly categorized in their respective cells to observe that each team member is doing their task, and that we complete each of a milestone’s set of issues on time. I have never done this procedure for group projects before and using it for the first time made me realize how efficient it is. 
 
 ## My Path Beyond the Classroom
+
+Overall, this class was more than just learning how to code in JavaScript, HTML, CSS and developing web applications. It assisted in developing my skills of working as an ethical member of professional work and a proficient contributor with a team of colleagues. Perhaps I will be going into the field of software engineering. Perhaps I will not. Whichever path I may embark on after this class is still a mystery. But I am certain that the takeaways are applicable to any destination I strive to achieve in.
