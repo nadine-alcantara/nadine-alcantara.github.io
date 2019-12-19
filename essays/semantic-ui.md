@@ -25,9 +25,9 @@ As simple as that, Semantic UI will automatically format an element with such ke
 ## Going beyond with Murphys
 Recreating the [Murphy's](http://murphyshawaii.com/) landing page in semantic ui was one of our in-class WODs in October. Using nothing but Semantic UI, we worked in pairs to replicate the design of the page as best as we could. However, we were tasked to only replicate what was given to us on a [screenshot](http://courses.ics.hawaii.edu/ics314f19/morea/ui-frameworks/inclass-murphys.html), which was an outdated version of the site, since it has gone through some redesign. The screen shot provided just three simple components: a navigation bar, a middle main image, and a simgple three-column footer. This was easily achievable in under the 20 minute Rx time limit. However, I wanted to push myself even more by replicating the actual website. Looking closer, it actually displays two background images at once: a dimly-lit bar at the top of the page and a window-seated area when you scroll to the bottom. After devling in for more research, this effect was called a "Parallax:" a web site trend where the background content (i.e. an image) is moved at a different speed than the foreground content while scrolling. A working example can be found [here](https://www.w3schools.com/howto/howto_css_parallax.asp). Implamenting this effect granted me the tools needed to properly replicate the actual design of the Murphy's landing. Here are my results:
 
-<img src="../images/murphys.png">
+<img class="ui fluid image" src="../images/murphys.png">
 
-<img src="../images/murphys-2.png">
+<img class="ui fluid image" src="../images/murphys-2.png">
 
 The code for my implamentation can be found on GitHub [here](https://github.com/nadine-alcantara/murphys/tree/background-effect)
 
