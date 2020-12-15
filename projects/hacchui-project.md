@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/hacchui-project-logo.png
 title: HACC-Hui
-permalink: projects/textxchange-project
+permalink: projects/hacchui-project
 date: 2020-12-15
 labels:
   - Software Engineering
