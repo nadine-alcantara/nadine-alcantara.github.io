@@ -13,8 +13,6 @@ labels:
 summary: HACC-Hui is a web application to help with team formation during the Hawaii Annual Code Challenge
 ---
 
-## HACC-Hui
-
 Every year, the Hawaii Annual Code Challenge is held to bring like-minded creative individuals to team up and tackle a challenge by creating innovative web applications. However, as 2020 brings us rather difficult circumstances, team formation needed to be transformed to become completely digital, in contrast to meeting teammates face-to-face. This year, our class in ICS 414 created HACC-Hui to tackle the limitations of the pandemic and provide easy team creation from the comfort of your own home. Not only does it help students connect and join teams remotely, HACC-Hui offers a variety of options to assist in finding teams that share the same interests or finding participants that would perfectly match one’s team. For just developing this app in a semester, we were successful in creating a product that helped make the HACC’s team formation experience easier.
 
 ## Functionality
@@ -34,7 +32,8 @@ In Milestone two, I added functionality that will let the participant indicate a
 ### Milestone 3 – “The Final Sprint”
 
 As the deadline for the final product grew nearer, our workflow for the project changed as switched gears and began individual work. We were able to freely select any project issue to work on to push through the final days of development. As for me, I worked on fine tuning the app to give it more uniformity. I changed the Delete Form page to follow the widget convention as it handles both subscriptions and getting data. I also allowed many pages to be mobile friendly, such as the Best Fit Teams page, List Teams page, Profile page, and Team Membership page. Doing so greatly improved the user experience on multiple devices.
-Team process
+
+## Team process
 
 I was in a team, LevelUpTeamA, working with my classmates Angeli Amascual, Newton Ransfer, Christine Uehara, and Justin Wong. We had a collaborative workflow that utilized GitHub’s Kanban board to organize all the project issues into Milestones. To ensure that we were on top of all deadlines, we put together all of our class schedules to find times during the week to meet and discuss our plans for the projects. We usually held short meetings through Discord at least once or twice a week to check up on progress and hold run-throughs for upcoming presentations to guarantee that our repository was sufficient. Since we all use Discord outside of class, availability was not a problem and we were all open for communication at all times, so we were also able to help each other on issues at any time.
 
