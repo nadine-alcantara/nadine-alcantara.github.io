@@ -21,17 +21,15 @@ Every year, the Hawaii Annual Code Challenge is held to bring like-minded creati
 
 For this project, our class was split into teams of four to five students to work on each stage of production or “milestone.” During each milestone, each student was given a list of user stories that consisted of the ideas the customers wanted for HACC-Hui. Each user story explained the different key features that our app would have, such as adding admin functionality, team development, user profile development, etc. At the end of each milestone, each team presents their ideas to discern which idea would be used for the end product. 
 
-<img class="ui medium left floated image" src="../images/hacchui-landing.PNG">
+<img class="ui medium left floated image" src="../images/hacchui-delete.PNG">
 
 ### Milestone 1
 
 In Milestone one, I was tasked to create the Landing Page. I had little to no experience with UI design, but it was still enjoyable nonetheless! My vision for the landing page was to have a minimalist, clean feel that would not clutter the participants with too much information. I added the four mini descriptions at the foot of the page to give a brief summary of what our app is capable of providing for its users, along with vector icons at each key point: developing a profile, creating a team, joining a team, and utilizing Slack.
 
-<img class="ui medium left floated image" src="../images/hacchui-delete.PNG">
-
 I also contributed by creating the Delete Page. When clicking the user icon on the upper right corner of the app, the user may select the option to delete their account. Doing so will bring them a feedback page that inquires the user for their reason for deleting their account. This was created with the simple Semantic UI dropdown to create the options and adding the selected option to the schema which would be submitted. Upon clicking the delete button, there will be a confirmation message, to make sure the user definitely wants to delete their account. To delete a user account, I implemented a Meteor method in the API, which would delete the Meteor account associated with the user. Additionally, the user from the Participant collection would be deleted as well. This way, when the user decides to reapply for HACC for any reason, they will be able to create a new account with a new user ID.
 
-<img class="ui medium left floated image" src="../images/hacchui-interested-devs.PNG">
+<img class="ui medium right floated image" src="../images/hacchui-interested-devs.PNG">
 
 ### Milestone 2
 
