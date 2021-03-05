@@ -4,6 +4,7 @@ type: project
 image: images/musescore.png
 title: Arranging Music
 permalink: projects/arranging
+draft: true
 date: 2019-02-21
 labels:
   - Arrangement
